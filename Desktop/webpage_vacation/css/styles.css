@@ -1,6 +1,9 @@
 .big{
-  font-size: 10px
+  font-size: 80px;
+  font-style: normal:
 }
 .small{
-  font-size: 3px
+  font-size: 23px;
+  font-style: italic;
+
 }
