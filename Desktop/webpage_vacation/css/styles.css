@@ -1,13 +1,12 @@
 .big{
   font-size: 80px;
   font-style: normal:
-}
+};
 .small{
   font-size: 23px;
   font-style: italic;
+};
 
-}
-
-.output{
-  display:none
-}
+.output_1, .output_2 {
+  display: none;
+};
